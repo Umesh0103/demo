@@ -1,0 +1,25 @@
+Commit# 5a6507b
+
+AC-2944 Update AAA tab to pull fields from eap.leads
+
+Fixed the build failed issue
+
+https://salessolutions.atlassian.net/browse/AC-2944
+
+---------------------------------
+Commit# 69c4045
+
+AC-2944 Update AAA tab to pull fields from eap.leads
+
+Updated to pull the offer_text, offer_expiration_date, offer_code from eap.leads
+
+https://salessolutions.atlassian.net/browse/AC-2944
+
+---------------------------------
+Commit# 3af4950f7
+
+AC-2944 Update AAA tab to pull fields from eap.leads
+
+Updated to pull the offer_text, offer_expiration_date, offer_code from eap.leads
+
+https://salessolutions.atlassian.net/browse/AC-2944
